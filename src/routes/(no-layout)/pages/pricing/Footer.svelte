@@ -15,14 +15,13 @@
 			<div class="grid grid-cols-2 gap-8 sm:grid-cols-6 sm:gap-6">
 				<div class="col-span-2 mb-6 md:mb-0">
 					<FooterBrand
-						href="https://flowbite.com"
+						href="https://aliasystems.com"
 						src="/images/flowbite-svelte-icon-logo.svg"
-						alt="Flowbite Logo"
-						name="Flowbite"
+						alt="Alia Systems Logo"
+						name="Alia Systems"
 					/>
 					<p class="mt-4 max-w-lg text-gray-500 dark:text-gray-400">
-						Flowbite is a UI library of elements &amp; components based on Tailwind CSS that can get
-						you started building websites faster and more efficiently.
+						Alia Systems is a small AI consultancy which builds ethical systems with a focus on privacy and security.
 					</p>
 				</div>
 				<div>
@@ -30,11 +29,11 @@
 						Resources
 					</h2>
 					<FooterLinkGroup>
-						<FooterLink liClass="mb-4" href="/">Flowbite</FooterLink>
-						<FooterLink liClass="mb-4" href="/">Figma</FooterLink>
-						<FooterLink liClass="mb-4" href="/">Tailwind CSS</FooterLink>
-						<FooterLink liClass="mb-4" href="/">Blog</FooterLink>
-						<FooterLink liClass="mb-4" href="/">Blocks</FooterLink>
+						<FooterLink liClass="mb-4" href="/">Alia Systems</FooterLink>
+						<FooterLink liClass="mb-4" href="/">WeAllShare</FooterLink>
+						<FooterLink liClass="mb-4" href="/">Documentation</FooterLink>
+						<FooterLink liClass="mb-4" href="/">Journal</FooterLink>
+						<FooterLink liClass="mb-4" href="/">Support</FooterLink>
 					</FooterLinkGroup>
 				</div>
 				<div>
@@ -43,7 +42,7 @@
 					</h2>
 					<FooterLinkGroup>
 						<FooterLink liClass="mb-4" href="/">GitHub Repository</FooterLink>
-						<FooterLink liClass="mb-4" href="/">Flowbite Library</FooterLink>
+						<FooterLink liClass="mb-4" href="/">Alia Systems Data</FooterLink>
 					</FooterLinkGroup>
 				</div>
 				<div>
@@ -69,7 +68,7 @@
 		</div>
 		<hr class="my-6 border-gray-200 dark:border-gray-700 sm:mx-auto lg:my-8" />
 		<div class="sm:flex sm:items-center sm:justify-center">
-			<FooterCopyright href="/" by="Flowbite™" />
+			<FooterCopyright href="/" by="Alia Systems™" />
 		</div>
 	</div>
 </Footer>
